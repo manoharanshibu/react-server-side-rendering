@@ -13,7 +13,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
         </header>
-        <Home name="Shibu Manoharan" />
+        <Home name="Shibu Manoharan.." />
       </div>
     );
   }
